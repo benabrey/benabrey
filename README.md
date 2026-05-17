@@ -1,4 +1,4 @@
-# Hey there, I'm Ben Abrey
+# Ben Abrey
 
 Frontend & Full-Stack Developer
 
